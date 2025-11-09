@@ -1,0 +1,11 @@
+{
+    "top": "compass",
+    "files":
+    ["part3/compass/compass.sv",
+    "provided/dff.sv",
+    "provided/inv.sv",
+    "provided/joystick.sv",
+    "part2/detect_edge/detect_edge.sv",
+    "part2/counter/counter.sv"
+    ]
+}
