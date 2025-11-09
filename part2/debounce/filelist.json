@@ -1,0 +1,8 @@
+{
+    "top": "debounce",
+    "_comment": "You may add other modules that you create",
+    "files":
+    ["part2/debounce/debounce.sv",
+     "part2/counter_sat/counter_sat.sv"
+    ]
+}

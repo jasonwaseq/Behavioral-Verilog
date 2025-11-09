@@ -1,0 +1,6 @@
+{
+    "top": "hex2ssd",
+    "files":
+    ["part1/hex2ssd/hex2ssd.sv"
+    ]
+}

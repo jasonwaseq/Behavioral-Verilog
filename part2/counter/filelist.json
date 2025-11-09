@@ -1,0 +1,13 @@
+{
+    "top": "counter",
+    "files":
+    ["part2/counter/counter.sv",
+     "provided/dff.sv",
+     "provided/inv.sv",
+     "part1/hex2ssd/hex2ssd.sv",
+     "part1/mux2/mux2.sv",
+     "part2/counter_sat/counter_sat.sv",
+     "part2/debounce/debounce.sv",
+     "part2/detect_edge/detect_edge.sv"
+    ]
+}

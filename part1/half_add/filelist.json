@@ -1,0 +1,6 @@
+{
+    "top": "half_add",
+    "files":
+    ["part1/half_add/half_add.sv"
+    ]
+}

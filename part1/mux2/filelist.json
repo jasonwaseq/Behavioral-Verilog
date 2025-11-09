@@ -1,0 +1,6 @@
+{
+    "top": "mux2",
+    "files":
+    ["part1/mux2/mux2.sv"
+    ]
+}

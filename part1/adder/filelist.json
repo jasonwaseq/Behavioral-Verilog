@@ -1,0 +1,6 @@
+{
+    "top": "adder",
+    "files":
+    ["part1/adder/adder.sv"
+    ]
+}

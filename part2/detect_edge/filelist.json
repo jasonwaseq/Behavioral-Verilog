@@ -1,0 +1,6 @@
+{
+    "top": "detect_edge",
+    "files":
+    ["part2/detect_edge/detect_edge.sv"
+    ]
+}

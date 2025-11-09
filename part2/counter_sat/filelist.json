@@ -1,0 +1,6 @@
+{
+    "top": "counter_sat",
+    "files":
+    ["part2/counter_sat/counter_sat.sv"
+    ]
+}
